@@ -32,4 +32,4 @@ function openSecureDoor(person) {
 
 openSecureDoor(new Frontend())
 openSecureDoor(new Backend())
-openSecureDoor(new PersonFromDifferentCompany())
+// openSecureDoor(new PersonFromDifferentCompany())  This imposible now
